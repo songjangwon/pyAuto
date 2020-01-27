@@ -15,9 +15,14 @@ print(pyautogui.position())
 # pyautogui.click(j)
 
 
-#pyautogui.screenshot('1.png', region = (1490, 684 , 30,30))
+#  전체플레이 220 70
+
+# pyautogui.screenshot('게임시작.png', region = (1500, 160 , 60,60))
 
 
-i = pyautogui.locateOnScreen('1.png', confidence=0.8)
+i = pyautogui.locateOnScreen('closeButton.png', confidence=0.9)
+pyautogui.moveTo(i)
 
-pyautogui.click(i)
+
+
+# pyautogui.click(i)
