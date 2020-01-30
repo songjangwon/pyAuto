@@ -3,7 +3,7 @@ import random, time, subprocess
 from PyQt5.QtWidgets import *
 from PyQt5 import uic
 import sys
-form_class = uic.loadUiType("test0124.ui")[0]
+# form_class = uic.loadUiType("test0124.ui")[0]
 from PyQt5 import QtCore, QtGui, QtWidgets
 
 class Ui_MainWindow(object):

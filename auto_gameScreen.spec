@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['auto_gameScreen.py'],
-             pathex=['C:\\pyAuto'],
+             pathex=['C:\\toy\\pyAuto'],
              binaries=[],
              datas=[],
              hiddenimports=[],
@@ -30,4 +30,4 @@ exe = EXE(pyz,
           upx=True,
           upx_exclude=[],
           runtime_tmpdir=None,
-          console=False , icon='baseball.ico')
+          console=True , icon='baseball.ico')
