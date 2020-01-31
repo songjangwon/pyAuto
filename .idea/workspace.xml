@@ -5,43 +5,16 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/auto_gameScreen.py" beforeDir="false" afterPath="$PROJECT_DIR$/auto_gameScreen.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/auto_gameScreen.spec" beforeDir="false" afterPath="$PROJECT_DIR$/auto_gameScreen.spec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/auto_game/Analysis-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/auto_game/EXE-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/auto_game/PKG-00.pkg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/auto_game/PKG-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/auto_game/PYZ-00.pyz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/auto_game/PYZ-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/auto_game/Tree-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/auto_game/Tree-01.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/auto_game/auto_game.exe.manifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/auto_game/base_library.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/auto_game/warn-auto_game.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/auto_game/xref-auto_game.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/auto_gameScreen/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/auto_gameScreen/Analysis-00.toc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/auto_gameScreen/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/auto_gameScreen/EXE-00.toc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/auto_gameScreen/PKG-00.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/build/auto_gameScreen/PKG-00.pkg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/auto_gameScreen/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/auto_gameScreen/PKG-00.toc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/auto_gameScreen/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/build/auto_gameScreen/PYZ-00.pyz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/auto_gameScreen/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/auto_gameScreen/PYZ-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/auto_gameScreen/Tree-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/auto_gameScreen/Tree-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/auto_gameScreen/Tree-01.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/auto_gameScreen/Tree-01.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/auto_gameScreen/auto_gameScreen.exe.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/build/auto_gameScreen/auto_gameScreen.exe.manifest" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/auto_gameScreen/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/auto_gameScreen/base_library.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/auto_gameScreen/warn-auto_gameScreen.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/auto_gameScreen/warn-auto_gameScreen.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/auto_gameScreen/xref-auto_gameScreen.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/auto_gameScreen/xref-auto_gameScreen.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test/Analysis-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test/EXE-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test/PKG-00.pkg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test/PKG-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test/PYZ-00.pyz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test/PYZ-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test/base_library.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test/test.exe.manifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test/warn-test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test/xref-test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/auto_game.exe" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/auto_gameScreen.exe" beforeDir="false" afterPath="$PROJECT_DIR$/dist/auto_gameScreen.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/test.exe" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

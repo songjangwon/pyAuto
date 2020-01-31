@@ -50,7 +50,7 @@ class Ui_MainWindow(object):
     def btn_clicked1(self):
         # QMessageBox.about(self, "message", "start")
         # self.status.setText('진행중,,')
-        a = ['allPlayButton.png','autoPlayButton.png','checkButton.png','nextButton.png','screenTouchButton.png','startButton.png','closeButton.png']
+        a = ['./image/allPlayButton.png','./image/autoPlayButton.png','./image/checkButton.png','./image/nextButton.png','./image/screenTouchButton.png','./image/startButton.png','./image/closeButton.png']
 
         while True:
             for pngName in a:
