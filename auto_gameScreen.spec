@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['auto_gameScreen.py'],
-             pathex=['C:\\toy\\pyAuto'],
+             pathex=['C:\\pyAuto'],
              binaries=[],
              datas=[],
              hiddenimports=[],

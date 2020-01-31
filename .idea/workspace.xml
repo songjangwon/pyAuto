@@ -11,6 +11,9 @@
       <change beforePath="$PROJECT_DIR$/build/auto_gameScreen/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/auto_gameScreen/PKG-00.toc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/auto_gameScreen/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/build/auto_gameScreen/PYZ-00.pyz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/auto_gameScreen/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/auto_gameScreen/PYZ-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/auto_gameScreen/Tree-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/auto_gameScreen/Tree-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/auto_gameScreen/Tree-01.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/auto_gameScreen/Tree-01.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/auto_gameScreen/auto_gameScreen.exe.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/build/auto_gameScreen/auto_gameScreen.exe.manifest" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/auto_gameScreen/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/auto_gameScreen/base_library.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/auto_gameScreen/warn-auto_gameScreen.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/auto_gameScreen/warn-auto_gameScreen.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/auto_gameScreen/xref-auto_gameScreen.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/auto_gameScreen/xref-auto_gameScreen.html" afterDir="false" />
@@ -75,6 +78,9 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="2260" y="242" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579863035066">
       <screen x="1680" y="-26" width="1536" height="864" />
@@ -87,11 +93,15 @@
     </state>
     <state x="479" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579605364470" />
     <state x="262" y="267" key="FileChooserDialogImpl/1680.-26.1536.832/0.0.1680.1010@0.0.1680.1010" timestamp="1579853795498" />
-    <state x="571" y="341" key="com.intellij.ide.util.TipDialog" timestamp="1579853776662">
-      <screen x="0" y="0" width="1680" height="1010" />
+    <state x="2251" y="25" key="RollbackChangesDialog" timestamp="1580482689272">
+      <screen x="1680" y="-26" width="1536" height="832" />
+    </state>
+    <state x="2251" y="25" key="RollbackChangesDialog/1680.-26.1536.832/0.0.1680.1010@1680.-26.1536.832" timestamp="1580482689272" />
+    <state x="2202" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1580480894732">
+      <screen x="1680" y="-26" width="1536" height="832" />
     </state>
     <state x="2572" y="351" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579598855816" />
-    <state x="571" y="341" key="com.intellij.ide.util.TipDialog/1680.-26.1536.832/0.0.1680.1010@0.0.1680.1010" timestamp="1579853776662" />
+    <state x="2202" y="255" key="com.intellij.ide.util.TipDialog/1680.-26.1536.832/0.0.1680.1010@0.0.1680.1010" timestamp="1580480894732" />
     <state x="2543" y="225" key="search.everywhere.popup" timestamp="1579596053023">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>

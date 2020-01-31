@@ -40,11 +40,11 @@ class Ui_MainWindow(object):
         _translate = QtCore.QCoreApplication.translate
         MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
         self.startButton.setText(_translate("MainWindow", "시작"))
-        self.endButton.setText(_translate("MainWindow", "중단"))
+        self.endButton.setText(_translate("MainWindow", "홈런"))
         self.label.setText(_translate("MainWindow", "상태"))
         self.status.setText(_translate("MainWindow", "정지"))
         self.startButton.clicked.connect(self.btn_clicked1)
-        self.endButton.clicked.connect(self.btn_clicked2)
+        self.endButton.clicked.connect(self.btn_clicked3)
 
 
     def btn_clicked1(self):
@@ -58,7 +58,13 @@ class Ui_MainWindow(object):
                 if i is not None:
                     time.sleep(random.uniform(1.31242, 5.5487))
                     pag.click(i)
-
+                    if pngName is './image/allPlayButton.png':
+                        time.sleep(random.uniform(1.31242, 2.5487))
+                        pag.click()
+                        time.sleep(random.uniform(1.31242, 2.5487))
+                        pag.click()
+                        time.sleep(random.uniform(1.31242, 2.5487))
+                        pag.click()
 
 
 
@@ -66,6 +72,20 @@ class Ui_MainWindow(object):
     def btn_clicked2(self):
         # QMessageBox.about(self, "message", "end")
         self.status.setText('중지상태,,')
+
+    def btn_clicked3(self):
+        # QMessageBox.about(self, "message", "start")
+        # self.status.setText('진행중,,')
+        a = ['bat.png']
+
+        while True:
+            for pngName in a:
+                i = pag.locateOnScreen(pngName, confidence=0.85)
+                if i is not None:
+                    # time.sleep(random.uniform(1.31242, 5.5487))
+                    pag.click(i)
+
+
 
 if __name__ == "__main__":
     import sys
