@@ -57,7 +57,9 @@ class Ui_MainWindow(object):
                 i = pag.locateOnScreen(pngName, confidence=0.9)
                 if i is not None:
                     time.sleep(random.uniform(1.31242, 5.5487))
-                    pag.click(i)
+                    pag.moveTo(i)
+                    pag.moveRel(random.uniform(0.31242, 5.5487),random.uniform(0.31242, 5.5487))
+                    pag.click()
                     if pngName is './image/allPlayButton.png':
                         time.sleep(random.uniform(1.31242, 2.5487))
                         pag.click()
